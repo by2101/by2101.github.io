@@ -5,8 +5,8 @@
 		"font.scss"
 	],
 	"sourcesContent": [
-		"@font-face {\n  font-family: 'fangzhengkaiti';\n  src: url(\"/page/assets/font/FangZhengKaiTi.ttf\");\n  font-weight: normal;\n  font-style: normal;\n}"
+		"@font-face {\n  font-family: 'fangzhengkaiti';\n  src: url(\"/assets/font/FangZhengKaiTi.ttf\");\n  font-weight: normal;\n  font-style: normal;\n}"
 	],
 	"names": [],
-	"mappings": "AAAA,UAAU,GACR,WAAW,EAAE,gBAAgB,EAC7B,GAAG,EAAE,2CAA2C,EAChD,WAAW,EAAE,MAAM,EACnB,UAAU,EAAE,MAAM"
+	"mappings": "AAAA,UAAU,GACR,WAAW,EAAE,gBAAgB,EAC7B,GAAG,EAAE,sCAAsC,EAC3C,WAAW,EAAE,MAAM,EACnB,UAAU,EAAE,MAAM"
 }
